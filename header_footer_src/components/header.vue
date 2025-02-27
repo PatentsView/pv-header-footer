@@ -32,9 +32,9 @@
               <a :href="communityBaseUrl + '/location-standardization'"
                 >Location Standardization</a
               >
-              <a :href="communityBaseUrl + '/gender-attribution'"
+              <!-- <a :href="communityBaseUrl + '/gender-attribution'"
                 >Gender Attribution</a
-              >
+              > -->
               <a :href="communityBaseUrl + '/government-interest'"
                 >Government Interest</a
               >
@@ -111,9 +111,9 @@
                 <a :href="communityBaseUrl + '/location-standardization'"
                   >Location Standardization</a
                 >
-                <a :href="communityBaseUrl + '/gender-attribution'"
+                <!-- <a :href="communityBaseUrl + '/gender-attribution'"
                   >Gender Attribution</a
-                >
+                > -->
                 <a :href="communityBaseUrl + '/government-interest'"
                   >Government Interest</a
                 >
@@ -230,9 +230,9 @@
               <a :href="communityBaseUrl + '/ai-and-innovation'"
                 >AI & Innovation</a
               >
-              <a :href="communityBaseUrl + '/gender-and-innovation'"
+              <!-- <a :href="communityBaseUrl + '/gender-and-innovation'"
                 >Gender & Innovation</a
-              >
+              > -->
             </div>
           </div>
           <div class="pvu__header-links header-links2 secondary-links">
@@ -276,9 +276,9 @@
               <a :href="communityBaseUrl + '/location-standardization'"
                 >Location Standardization</a
               >
-              <a :href="communityBaseUrl + '/gender-attribution'"
+              <!-- <a :href="communityBaseUrl + '/gender-attribution'"
                 >Gender Attribution</a
-              >
+              > -->
               <a :href="communityBaseUrl + '/government-interest'"
                 >Government Interest</a
               >
@@ -391,9 +391,9 @@
                   <a :href="communityBaseUrl + '/ai-and-innovation'"
                     >AI & Innovation</a
                   >
-                  <a :href="communityBaseUrl + '/gender-and-innovation'"
+                  <!-- <a :href="communityBaseUrl + '/gender-and-innovation'"
                     >Gender & Innovation</a
-                  >
+                  > -->
                 </div>
               </div>
               <div class="pvu__mobile2-section secondary-links">
@@ -439,9 +439,9 @@
                   <a :href="communityBaseUrl + '/location-standardization'"
                     >Location Standardization</a
                   >
-                  <a :href="communityBaseUrl + '/gender-attribution'"
+                  <!-- <a :href="communityBaseUrl + '/gender-attribution'"
                     >Gender Attribution</a
-                  >
+                  > -->
                   <a :href="communityBaseUrl + '/government-interest'"
                     >Government Interest</a
                   >
